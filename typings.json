@@ -1,0 +1,7 @@
+{
+	"name": "linkify-it",
+	"main": "index.d.ts",
+	"ambientDevDependencies": {
+		"node": "registry:dt/node#4.0.0+20160319033040"
+	}
+}
